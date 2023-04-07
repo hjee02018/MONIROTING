@@ -1,4 +1,4 @@
-# ViVA_Check
+# Monitoring Your Program
 
 Programs that monitors always running programs. 
 Registering the path of the program you want to monitor and performing monitoring provides the following features.
